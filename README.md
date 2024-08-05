@@ -1,0 +1,1 @@
+This project is a website, which displays a variety of linked pages holding different text formats and images. I expect to have a more fluent understanding of git, HTML basics, and the full process of creating and showcasing a website on GitHub.
